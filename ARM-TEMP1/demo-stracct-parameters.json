@@ -3,7 +3,7 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"storageAccount_name": {
-			"value": "STACC1024"
+			"value": "STACC12345"
 		},
 		"storageAccount_location": {
 			"value": "west europe"
